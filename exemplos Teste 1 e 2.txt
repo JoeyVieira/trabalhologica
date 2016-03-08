@@ -1,0 +1,39 @@
+         ITEM 1
+
+Qual o sexo do cliente? M
+Quantas cervejas foram consumidas? 4
+Quantos refrigerantes foram consumidos? 2
+Quantos espetinhos foram consumidos? 1
+Valor da conta:
+R$ 10,00 (valor básico)
+R$ 28,00 (bebida e comida)
+R$ 0,00 (cantores)
+R$ 46,00 (subtotal sem 10%)
+------------------------------------------
+R$ 50,60 (total)
+
+              ITEM 2
+
+Total de rendimentos bancarios: 1100.00
+Total de rendimentos de salarios ou servicos: 10000.00
+Total de outros rendimentos: 1400.00
+Servicos medicos pagos: 100.00
+Servicos educacionais pagos: 50.00
+Total de impostos:
+R$ 220,00 (sobre rendimentos bancarios)
+R$ 1500,00 (sobre salarios servicos)
+R$ 140,00 (sobre outros rendimentos)
+R$ 1860,00 (total)
+------------------------------------------
+Maximo a ser abatido:
+R$ 558,00
+------------------------------------------
+Total de valores possiveis de abater:
+R$ 100,00 (servicos medicos)
+R$ 50,00 (servicos educacionais)
+R$ 150,00 (total)
+------------------------------------------
+Imposto total:
+R$ 1860,00 (imposto bruto)
+R$ 150,00 (abatimentos)
+R$ 2010,00 (total)
